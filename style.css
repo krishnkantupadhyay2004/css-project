@@ -14,7 +14,7 @@ html,body{
     background-image: url(photo.jpg);
     background-size: cover;
     width:100vw;
-   border:2px solid red;
+   
     background-position: center;
     height: 100vh;
     
@@ -114,6 +114,7 @@ a{
     margin:5px;
     
 }
+
 
 
 
