@@ -13,7 +13,8 @@ html,body{
 .main_box{
     background-image: url(photo.jpg);
     background-size: cover;
-
+    width:100vw;
+   
     /* background-position: center; */
     height: 100vh;
     
@@ -113,3 +114,4 @@ a{
     margin:5px;
     
 }
+
