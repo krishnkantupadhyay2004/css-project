@@ -15,7 +15,7 @@ html,body{
     background-size: cover;
     width:100vw;
    
-    /* background-position: center; */
+    background-position: center;
     height: 100vh;
     
 }
@@ -114,4 +114,5 @@ a{
     margin:5px;
     
 }
+
 
