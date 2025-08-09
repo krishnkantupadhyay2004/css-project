@@ -29,6 +29,9 @@ html,body{
     box-shadow: 0 0 2px rgba(255,255,255,0.5);
     transition:linear 0.4s;
 }
+@media(max-width:260px){
+    width:100vw;
+}
 #check:checked ~ .sidebar_menu{
     left:0px;
 }
@@ -114,6 +117,7 @@ a{
     margin:5px;
     
 }
+
 
 
 
